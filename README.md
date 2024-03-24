@@ -7,8 +7,8 @@ Despite the fact that MacOS is a really good and polished OS, there are still pl
 - [Rectangle](https://rectangleapp.com/) [OpenSource] - Incredibly powerful window manager! It allows you to snap your application windows to different corners and provides a lot of useful and easy-to-remember shortcuts for arranging your Mac's windows!
 - [Snap](https://apps.apple.com/en/app/snap/id418073146) [Free?] - Allows you to open your pinned dock apps with shortcuts! A must-have tool that makes your tasks much easier and more efficient.
 - [Dockey](https://dockey.publicspace.co/) [Free] - Makes your dock faster. Removes open delay for the dock.
+- [Pika](https://superhighfives.com/pika) [OpenSource] - Color picker! Now you can see what the color is just with a small shortcut.
 - [AutoRaise](https://github.com/sbmpost/AutoRaise) [OpenSource] - Focuses or raises your windows on hover! It's very useful for a multi-monitor setup and mostly opens your windows in full-size mode. I would really like to use it myself, but only focus mode works poorly with JetBrains tools...
-- [Pika](https://superhighfives.com/pika) [OpenSource] - Color selector! Now you can see what the color is just with a small shortcut.
 
 ## System Tweaks
 
