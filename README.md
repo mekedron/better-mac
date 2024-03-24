@@ -13,11 +13,24 @@ Despite the fact that MacOS is a really good and polished OS, there are still pl
 ## System Tweaks
 
 And here are a couple of other important apps related to the system itself:
+
+### Battery
+
 - [AlDente](https://apphousekitchen.com/) [Freemium, [OpenSource](https://github.com/AppHouseKitchen/AlDente-Charge-Limiter)] - Manually control your MacBook's charging to increase its lifespan. It's a replacement for "Optimized Battery Charging," which is almost useless on MacBooks.
-- [FinderFix](https://synappser.github.io/apps/finderfix/) [Free] - INCREDIBLY USEFUL. This prevents Finder from picking a random place on the screen when you open it. Must-have.
+- [Battery Toolkit](https://github.com/mhaeuser/Battery-Toolkit) [OpenSource] - Analog for AlDente, please choose one.
+
+### Storage
+
 - [AppCleaner](https://freemacsoft.net/appcleaner/) [Free] - A must-have! Cleans up garbage after you delete applications. Completely free and without useless features.
-- [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html) [Paid] - Network filter. You can see which programs connect to the internet and block access, like a firewall.
 - [Grand Perspective](https://apps.apple.com/us/app/grandperspective/id1111570163) [Paid] - Disk space analyzer. Always helps me find out the reason for the lack of space.
+
+### Security
+
+- [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html) [Paid] - Network filter. You can see which programs connect to the internet and block access, like a firewall.
+
+### Other
+
+- [FinderFix](https://synappser.github.io/apps/finderfix/) [Free] - INCREDIBLY USEFUL. This prevents Finder from picking a random place on the screen when you open it. Must-have.
 
 ## External Hardware
 
