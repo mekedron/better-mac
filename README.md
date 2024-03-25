@@ -44,6 +44,6 @@ When you plug in an external mouse, you'll notice how strange its behavior is. T
 ### Screen
 
 When you connect an external display to your MacBook or Mac Mini, you may notice something strange with its resolution. The external display picture is blurry on the MacBook or lacks sharpness, and when you open Display Settings, you may not see the proper resolution for your display. There are a couple of options you can check to fix your issue; pick only one:
+- [DisplayBuddy](https://displaybuddy.app/) [Paid] - Probably a slightly better analog for Display Buddy, but I've not checked this one.
 - [BetterDisplay](https://github.com/waydabber/BetterDisplay?tab=readme-ov-file) [Freemium] - I used only this one for setting completely custom HiDPI resolution for my external monitor on MacBook Pro.
-- [DisplayBuddy](https://displaybuddy.app/) [Shareware] - Probably a slightly better analog for Display Buddy, but I've not checked this one.
 - [MonitorControl](https://github.com/MonitorControl/MonitorControl) [OpenSource] - Can't see if it supports setting custom HiDPI resolution, but worth trying.
