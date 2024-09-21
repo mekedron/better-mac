@@ -16,17 +16,17 @@ And here are a couple of other important apps related to the system itself:
 
 ### Battery
 
-- [AlDente](https://apphousekitchen.com/) [Freemium, [OpenSource](https://github.com/AppHouseKitchen/AlDente-Charge-Limiter)] - Manually control your MacBook's charging to increase its lifespan. It's a replacement for "Optimized Battery Charging," which is almost useless on MacBooks.
+- [AlDente](https://apphousekitchen.com/) [Trialware, [OpenSource](https://github.com/AppHouseKitchen/AlDente-Charge-Limiter)] - Manually control your MacBook's charging to increase its lifespan. It's a replacement for "Optimized Battery Charging," which is almost useless on MacBooks.
 - [Battery Toolkit](https://github.com/mhaeuser/Battery-Toolkit) [OpenSource] - Analog for AlDente, please choose one.
 
 ### Storage
 
 - [AppCleaner](https://freemacsoft.net/appcleaner/) [Free] - A must-have! Cleans up garbage after you delete applications. Completely free and without useless features.
-- [Grand Perspective](https://apps.apple.com/us/app/grandperspective/id1111570163) [Paid] - Disk space analyzer. Always helps me find out the reason for the lack of space.
+- [Grand Perspective](https://apps.apple.com/us/app/grandperspective/id1111570163) [Shareware] - Disk space analyzer. Always helps me find out the reason for the lack of space.
 
 ### Security
 
-- [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html) [Paid] - Network filter. You can see which programs connect to the internet and block access, like a firewall.
+- [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html) [Shareware] - Network filter. You can see which programs connect to the internet and block access, like a firewall.
 
 ### Other
 
@@ -34,16 +34,17 @@ And here are a couple of other important apps related to the system itself:
 
 ## External Hardware
 
-### Mouse
+### Keyboard, Mouse, Touchpad
 
 When you plug in an external mouse, you'll notice how strange its behavior is. The scroll direction is wrong, and there's unnecessary scroll acceleration. It works fine if your mouse is Apple's, but mice from other vendors are almost unusable. Check out the following apps that help you fix it:
 - [Linear Mouse](https://linearmouse.app/) [OpenSource] - Allows you to disable external mouse acceleration and reverse scroll direction upon mouse plug-in.
 - [UnnaturalScrollWheels](https://github.com/ther0n/UnnaturalScrollWheels) [OpenSource] - Similar to Linear Mouse but with a slightly different interface.
 - [Discrete Scroll](https://github.com/mekedron/discrete-scroll) [OpenSource] - Has no interface, and the last version does not support fixing horizontal scrollwheel.
+- [BetterTouchTool](https://folivora.ai/) [Trialware] - Incredibly powerful tool for setting up touchpad and keyboard shortcuts.
 
 ### Screen
 
 When you connect an external display to your MacBook or Mac Mini, you may notice something strange with its resolution. The external display picture is blurry on the MacBook or lacks sharpness, and when you open Display Settings, you may not see the proper resolution for your display. There are a couple of options you can check to fix your issue; pick only one:
-- [DisplayBuddy](https://displaybuddy.app/) [Paid] - A slightly better analog for Display Buddy (imho). Has a bit less settings, but does the same.
+- [DisplayBuddy](https://displaybuddy.app/) [Trialware] - A slightly better analog for Display Buddy (imho). Has a bit less settings, but does the same.
 - [BetterDisplay](https://github.com/waydabber/BetterDisplay?tab=readme-ov-file) [Freemium] - I used only this one for setting completely custom HiDPI resolution for my external monitor on MacBook Pro.
 - [MonitorControl](https://github.com/MonitorControl/MonitorControl) [OpenSource] - Can't see if it supports setting custom HiDPI resolution, but worth trying.
