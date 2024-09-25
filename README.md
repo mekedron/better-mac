@@ -38,8 +38,6 @@ And here are a couple of other important apps related to the system itself:
 
 When you plug in an external mouse, you'll notice how strange its behavior is. The scroll direction is wrong, and there's unnecessary scroll acceleration. It works fine if your mouse is Apple's, but mice from other vendors are almost unusable. Check out the following apps that help you fix it:
 - [Linear Mouse](https://linearmouse.app/) [OpenSource] - Allows you to disable external mouse acceleration and reverse scroll direction upon mouse plug-in.
-- [UnnaturalScrollWheels](https://github.com/ther0n/UnnaturalScrollWheels) [OpenSource] - Similar to Linear Mouse but with a slightly different interface.
-- [Discrete Scroll](https://github.com/mekedron/discrete-scroll) [OpenSource] - Has no interface, and the last version does not support fixing horizontal scrollwheel.
 - [BetterTouchTool](https://folivora.ai/) [Trialware] - Incredibly powerful tool for setting up touchpad and keyboard shortcuts.
 
 ### Screen
