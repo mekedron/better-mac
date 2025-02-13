@@ -9,7 +9,8 @@ Despite the fact that MacOS is a really good and polished OS, there are still pl
 - [Dockey](https://dockey.publicspace.co/) [Free] - Makes your dock faster. Removes open delay for the dock.
 - [Pika](https://superhighfives.com/pika) [OpenSource] - Color picker! Now you can see what the color is just with a small shortcut.
 - [AutoRaise](https://github.com/sbmpost/AutoRaise) [OpenSource] - Focuses or raises your windows on hover! It's very useful for a multi-monitor setup and mostly opens your windows in full-size mode. I would really like to use it myself, but only focus mode works poorly with JetBrains tools...
-- [TextSniper](https://textsniper.app/) [Shareware] - A smiple shortcut that a copies any text from screen or image to your clipboard! Must have!
+- <s>[TextSniper](https://textsniper.app/) [Shareware] - A smiple shortcut that a copies any text from screen or image to your clipboard! Must have!</s>
+  
 
 ## System Tweaks
 
@@ -44,6 +45,10 @@ When you plug in an external mouse, you'll notice how strange its behavior is. T
 ### Screen
 
 When you connect an external display to your MacBook or Mac Mini, you may notice something strange with its resolution. The external display picture is blurry on the MacBook or lacks sharpness, and when you open Display Settings, you may not see the proper resolution for your display. There are a couple of options you can check to fix your issue; pick only one:
-- [DisplayBuddy](https://displaybuddy.app/) [Trialware] - A slightly better analog for Display Buddy (imho). Has a bit less settings, but does the same.
+- [DisplayBuddy](https://displaybuddy.app/) [Trialware] - I use this one with on my MacBook with Samsung Odyssey OLED G9.
 - [BetterDisplay](https://github.com/waydabber/BetterDisplay?tab=readme-ov-file) [Freemium] - I used only this one for setting completely custom HiDPI resolution for my external monitor on MacBook Pro.
 - [MonitorControl](https://github.com/MonitorControl/MonitorControl) [OpenSource] - Can't see if it supports setting custom HiDPI resolution, but worth trying.
+
+### Sound
+
+- [SwitchAudioSource](https://github.com/deweller/switchaudio-osx) - A small console utilite for Mac to switch audio sources. I use this in combination with BetterTouchTool to have shortcuts to switch between speakers and headphones.
