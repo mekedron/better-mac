@@ -5,6 +5,7 @@ This repository provides a list of must-have applications and tweaks for MacOS t
 
 Despite the fact that MacOS is a really good and polished OS, there are still plenty of things missing. So here are a couple of programs that could fix it; pick one you like more:
 - [Rectangle](https://rectangleapp.com/) [OpenSource] - Incredibly powerful window manager! It allows you to snap your application windows to different corners and provides a lot of useful and easy-to-remember shortcuts for arranging your Mac's windows!
+- [MacsyZones](https://github.com/rohanrhu/MacsyZones) [OpenSource] - Free and Open Source analog of FansyZones on Windows, but for macOS! It's a must-have for a wide screen monitor user.
 - [Snap](https://apps.apple.com/us/app/snap/id418073146) [Free?] - Allows you to open your pinned dock apps with shortcuts! A must-have tool that makes your tasks much easier and more efficient.
 - [Dockey](https://dockey.publicspace.co/) [Free] - Makes your dock faster. Removes open delay for the dock.
 - [Pika](https://superhighfives.com/pika) [OpenSource] - Color picker! Now you can see what the color is just with a small shortcut.
