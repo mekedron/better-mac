@@ -55,3 +55,9 @@ When you connect an external display to your MacBook or Mac Mini, you may notice
 ### Sound
 
 - [SwitchAudioSource](https://github.com/deweller/switchaudio-osx) - A small console utilite for Mac to switch audio sources. I use this in combination with BetterTouchTool to have shortcuts to switch between speakers and headphones.
+
+## Content Editing
+
+### Video
+
+- [HandBreak](https://handbrake.fr/) - Incredibly nice tool that can help you to convert your .mov screen recordings into .mov or .mp4 format offline.
