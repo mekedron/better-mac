@@ -4,6 +4,8 @@ This repository provides a list of must-have applications and tweaks for MacOS t
 ## Productivity
 
 Despite the fact that MacOS is a really good and polished OS, there are still plenty of things missing. So here are a couple of programs that could fix it; pick one you like more:
+- **[ClipSlop](https://mekedron.github.io/ClipSlop/)** — 🌟 **FEATURED** 🌟 — Free AI writing tool for macOS. Fix grammar, translate, rewrite, or format text with a hotkey. Works with ChatGPT, Anthropic, and Ollama.
+- [VoiceInk](https://tryvoiceink.com) — Near-instant local-first voice-to-text transcription for macOS. [My license-free fork](https://github.com/mekedron/PatchedVoiceInk).
 - [Rectangle](https://rectangleapp.com/) [OpenSource] - Incredibly powerful window manager! It allows you to snap your application windows to different corners and provides a lot of useful and easy-to-remember shortcuts for arranging your Mac's windows!
 - <s>[MacsyZones](https://github.com/rohanrhu/MacsyZones) [OpenSource] - Free and Open Source analog of FansyZones on Windows, but for macOS! It's a must-have for a wide screen monitor user.</s> <b>Deprecated:</b> Use BetterTouchTool for snapping windows.
 - <s>[Snap](https://apps.apple.com/us/app/snap/id418073146) [Free?] - Allows you to open your pinned dock apps with shortcuts! A must-have tool that makes your tasks much easier and more efficient.</s> <b>Deprecated:</b> Use BetterTouchTool for shortcuts (you can use [this shell script](https://gist.github.com/mekedron/55bdef0820c02094c3454ef169886305) or import from the code field below - paste to you address bar to import).
