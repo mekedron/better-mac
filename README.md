@@ -4,6 +4,7 @@ This repository provides a list of must-have applications and tweaks for MacOS t
 ## Productivity
 
 Despite the fact that MacOS is a really good and polished OS, there are still plenty of things missing. So here are a couple of programs that could fix it; pick one you like more:
+- **[Johnny](https://mekedron.github.io/Johnny/)** — 🌟 **FEATURED** 🌟 — Local-first, open-source AI agent that joins your Google Meet calls on your behalf. Transcribes meetings, speaks within the limits you set, and runs 24/7 in Docker on your own machine. Five behavior modes from silent note-taker to fully autonomous; works with Ollama + faster-whisper + Piper out of the box.
 - **[ClipSlop](https://mekedron.github.io/ClipSlop/)** — 🌟 **FEATURED** 🌟 — Free AI writing tool for macOS. Fix grammar, translate, rewrite, or format text with a hotkey. Works with ChatGPT, Anthropic, and Ollama.
 - **[PieSwitcher](https://github.com/mekedron/Bringr)** — 🌟 **FEATURED** 🌟 — Radial pie-menu window switcher for macOS. Summon a wheel with a gesture, hover an app to fan out its windows with live previews, and click to bring one forward; no Cmd-Tab, no Mission Control.
 - [VoiceInk](https://tryvoiceink.com) — Near-instant local-first voice-to-text transcription for macOS. [My license-free fork](https://github.com/mekedron/PatchedVoiceInk).
